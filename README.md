@@ -1,4 +1,4 @@
-# seg-test
-Test GitHub repo for segmentation network
+# SynCT
+Test GitHub repo for SynCT network
 
-Tensorflow method 
+Tensorflow method as precurser to CSC Group pytorch MONAI method
