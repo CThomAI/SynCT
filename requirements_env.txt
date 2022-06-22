@@ -83,7 +83,7 @@ networkx==2.4
 nibabel==2.3.1
 NiftyNet==0.4.0
 notebook==5.7.0
-numpy==1.15.4
+numpy==1.22.0
 numpydoc==1.0.0
 opencv-python==3.4.3.18
 openpyxl==2.6.2
